@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://internattier1:Ksbu2003@cluster0.j0yfbal.mongodb.net/?retryWrites=true&w=majority",
+  "mongoURI": "MONGODB_URL",
   "jwtSecret": "shhhhhh"
 }
